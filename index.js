@@ -43,5 +43,5 @@ function preserveDecimal(n) {
 }
 
 function preserveDecimal(n) {
-  return n -= 1;
+  return parseFloat;
 }
